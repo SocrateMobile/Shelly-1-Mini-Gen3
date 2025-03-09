@@ -128,7 +128,7 @@ conditions:
   - condition: sun
     before: sunrise
     after: sunset
-    enabled: false
+    enabled: true
 actions:
   - service: rest_command.shelly_portail_on
     data:
