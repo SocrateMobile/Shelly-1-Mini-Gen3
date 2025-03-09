@@ -1,10 +1,8 @@
-Pour optimiser ce tutoriel afin qu'il soit publiable sur GitHub, il est important de structurer le contenu de manière claire et concise, d'ajouter des titres et des sous-titres, et de s'assurer que le code est bien formaté. Voici une version améliorée de votre tutoriel :
-
----
-
 # Utilisation du Shelly 1 Mini Gen3 avec Home Assistant
 
 Le Shelly 1 Mini Gen3 n'est pas encore supporté par l'intégration Shelly de HACS. Voici comment l'utiliser sans passer par cette intégration, en exploitant les commandes HTTP pour contrôler le relais.
+
+
 
 ## Configuration des adresses IP fixes
 
