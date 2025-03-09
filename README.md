@@ -155,3 +155,10 @@ mode: restart
 
 ---
 
+
+
+
+![alt text](https://github.com/SocrateMobile/shelly 1 mini gen3.jpg?raw=true)
+
+
+
