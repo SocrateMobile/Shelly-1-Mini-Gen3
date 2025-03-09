@@ -124,25 +124,6 @@ triggers:
       - binary_sensor.portail_pieton_ouverture
     to: "on"
     id: allume
-  - platform: state
-    entity_id:
-      - binary_sensor.porte_de_l_entree_v2_ouverture
-      - binary_sensor.porte_de_l_entree_v2_ouverture_2
-      - binary_sensor.entree_backup_ouverture
-    to: "on"
-  - platform: state
-    entity_id:
-      - light.lampe_d_exterieur_intelligente_avec_camera_floodlight
-    to: "on"
-  - platform: state
-    entity_id:
-      - binary_sensor.entree_backup_ouverture
-    to: "on"
-  - platform: device
-    type: turned_on
-    device_id: c233b7b0296dc11685e63a597c852a8b
-    entity_id: bf2baea1d0d7684c71f639e7533efd2e
-    domain: light
 conditions:
   - condition: sun
     before: sunrise
