@@ -158,6 +158,33 @@ mode: restart
 
 ---
 
+# Câblage Contact Sec
+![alt text](calblage_contact_sec.jpg?raw=true)
+
+# Câblage Contact Sec
+![alt text](calblage_contact_sec_avec_inter.jpg?raw=true)
+
+
+# Câblage Mode Relai
+![alt text](mode_relai?raw=true)
+
+# Câblage Mode Relai avec interrupteur
+![alt text](mode_relai_avec_inter?raw=true)
+
+
+# Câblage Mode Relai avec bouton poussoir
+![alt text](mode_relai_bouton_poussoir?raw=true)
+
+# Câblage Mode Relai vas-et-vient
+![alt text](mode_relai_vas_et_vient?raw=true)
+
+
+
+
+
+
+
+
 
 
 
