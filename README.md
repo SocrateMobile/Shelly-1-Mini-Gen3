@@ -161,7 +161,7 @@ mode: restart
 # Câblage Contact Sec
 ![alt text](calblage_contact_sec.jpg?raw=true)
 
-# Câblage Contact Sec
+# Câblage Contact Sec avec interrupteur
 ![alt text](calblage_contact_sec_avec_inter.jpg?raw=true)
 
 
