@@ -1,8 +1,8 @@
 # Utilisation du Shelly 1 Mini Gen3 avec Home Assistant
 
 Le Shelly 1 Mini Gen3 n'est pas encore supporté par l'intégration Shelly de HACS. Voici comment l'utiliser sans passer par cette intégration, en exploitant les commandes HTTP pour contrôler le relais.
-![Description de l'image](shelly 1 mini gen3.jpg)
 
+![alt text](https://github.com/SocrateMobile/Affichage-Flipr-HomeAssistant/blob/main/shelly 1 mini gen3.jpg?raw=true)
 
 ## Configuration des adresses IP fixes
 
