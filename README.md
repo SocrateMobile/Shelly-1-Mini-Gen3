@@ -1,4 +1,4 @@
-# shelly est desormais intégré nativement dans home assistant
+# Shelly est desormais intégré nativement dans home assistant
 et contrairement a la version presente dans HACS , shelly est maintenant complètement pris en charge, en local
 mais le tuto ci apres est toujours valable 
  
